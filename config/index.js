@@ -67,7 +67,7 @@ export const config = {
       horoscopeDateType: '',
       openUrl: "https://wangxinleo.cn",
       festivals: [],
-      customizedDateList: [oXgBd5sMyPRQ8GdLq_kEm5vIyPyU]
+      customizedDateList: []
     },
     {
       name: "老婆2",
